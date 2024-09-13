@@ -1,31 +1,30 @@
 <p align="center">
-  <a href="https://average.website">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wmoo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/regalartenjoyer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?perline=12&i=ts,js,python,cs,cpp,c,java,php,lua,html,css,nodejs,react,vue,svelte,ember,astro,next,express,laravel,django,postgresql,mongo" />
 </p>
 
 <p align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/jetboom">
+  &nbsp;
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jetboom">
+  &nbsp;
+  <a href="https://average.website">
+    <img src="https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/wmoo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/regalartenjoyer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ## Current Projects :computer:
 
 Things that I'm actively working on:
 
-* [Personal Site](https://github.com/JetBoom/personal-site) - A personal blog and portfolio site built in [Astro](https://github.com/withastro/astro) 🌠 and composed by yaml and markdown files. Check it out [here](https://average.website).
+* [Personal Site](https://github.com/JetBoom/personal-site) - A personal blog and portfolio site built in [Astro](https://github.com/withastro/astro) 🚀 and composed by yaml and markdown files. Check it out [here](https://average.website).
 
 Some things that I've done in the past are below. Check out more in my [repository list](https://github.com/JetBoom?tab=repositories&q=&type=&language=&sort=stargazers).
 
