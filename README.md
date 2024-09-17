@@ -25,6 +25,7 @@
 Things that I'm actively working on:
 
 * [Personal Site](https://github.com/JetBoom/personal-site) - A personal blog and portfolio site built in [Astro](https://github.com/withastro/astro) 🚀 and composed by yaml and markdown files. Check it out [here](https://average.website).
+* [astro-html-resume](https://github.com/JetBoom/astro-html-resume) - A simple, ATS friendly resume builder powered by Astro that lets you display your information with markdown.
 
 Some things that I've done in the past are below. Check out more in my [repository list](https://github.com/JetBoom?tab=repositories&q=&type=&language=&sort=stargazers).
 
