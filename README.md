@@ -10,7 +10,7 @@
 
 <div align="center">
   <a alt="Website" href="https://average.website">
-    <img src="https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://codepen.com/jetboom">
