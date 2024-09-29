@@ -1,14 +1,20 @@
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?perline=12&i=ts,js,python,cs,cpp,c,java,php,lua,html,css,nodejs,react,vue,svelte,ember,astro,next,express,laravel,django,postgresql,mongo,aws" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/jetboom">
   &nbsp;
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jetboom">
-  &nbsp;
-  <a href="https://average.website">
+</div>
+
+<div align="center">
+  <a alt="Website" href="https://average.website">
     <img src="https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codepen.com/jetboom">
+    <img src="https://img.shields.io/badge/Codepen-111111?logo=codepen&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/wmoo/">
@@ -18,7 +24,7 @@
   <a href="https://www.instagram.com/regalartenjoyer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-</p>
+</div>
 
 ## Current Projects :computer:
 
